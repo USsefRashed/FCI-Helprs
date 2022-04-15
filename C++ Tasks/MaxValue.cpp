@@ -1,7 +1,7 @@
 /*
-Name : Yousef Ashraf Mohammed AbdelRahman
+FCI With C++ Tutor With Joo
+Name : Yousef Rashed
 Year : 2
-Section : 16
 */
 #include<iostream>
 using namespace std;
