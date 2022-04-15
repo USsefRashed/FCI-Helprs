@@ -1,4 +1,8 @@
-
+/*
+C++ Tutor With Joo && FCI Helpers
+Name : Yousef Rashed
+Year: 2
+*/
 #include<iostream>
 #include<cmath>
 using namespace std;
